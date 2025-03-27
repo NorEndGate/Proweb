@@ -71,17 +71,21 @@ Frontend akan berjalan di http://localhost:5173.
 ---
 ## 📷 Screenshot Aplikasi
 1. *Tampilan Read Data*
-![alt text](ReadData1.png)
+![alt text](ReadDataUTS.png)
 
 2. *Tampilan Create Data*
+
 *Before*
 ![alt text](CreateData1.png)
+
 *After*
 ![alt text](CreateData2.png)
 
 4. *Tampilan Edit data*
+
 *Before*
 ![alt text](EditData1.png)
+
 *After*
 ![alt text](EditData2.png)
 

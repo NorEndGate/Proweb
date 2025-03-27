@@ -1,16 +1,14 @@
 # Aplikasi CRUD dengan React, Express, dan PostgreSQL
 
 Aplikasi ini adalah dashboard admin untuk e-commerce yang memungkinkan pengguna melakukan operasi CRUD terhadap produk. Dilengkapi dengan antarmuka pengguna modern, animasi, dan responsif di berbagai perangkat.
+
 ---
 ## 📌 Fitur Aplikasi
-- *Menampilkan daftar produk dengan tampilan responsif*
+- *Menampilkan daftar produk*
 - *Menambahkan produk baru dengan validasi input*
-- *Mengedit produk yang sudah ada dengan modal form*
-- *Menghapus produk dengan konfirmasi sebelum eksekusi*
-- *Menerapkan notifikasi sukses/gagal pada operasi CRUD*
+- *Mengedit produk yang sudah ada dengan form*
+- *Menghapus produk*
 - *Menghubungkan frontend dan backend menggunakan API*
-- *Menampilkan data dalam tabel dengan fitur pencarian dan pagination*
-- *Menggunakan state management dengan React Hooks (useState, useEffect)*
 
 ---
 ## 🚀 Cara Install dan Menjalankan Aplikasi

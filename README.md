@@ -5,7 +5,7 @@ Aplikasi ini adalah dashboard admin untuk e-commerce yang memungkinkan pengguna 
 ---
 ## 📌 Fitur Aplikasi
 - *Menampilkan daftar produk*
-- *Menambahkan produk baru dengan validasi input*
+- *Menambahkan produk baru*
 - *Mengedit produk yang sudah ada dengan form*
 - *Menghapus produk*
 - *Menghubungkan frontend dan backend menggunakan API*
@@ -14,14 +14,12 @@ Aplikasi ini adalah dashboard admin untuk e-commerce yang memungkinkan pengguna 
 ## 🚀 Cara Install dan Menjalankan Aplikasi
 
 ### *1. Clone Repository*
-sh
-git clone https://github.com/yosanpratiwi/ecommerce-kecil.git 
+git clone https://github.com/NorEndGate/ProWeb.git 
 cd repository-name
 
 
 ### *2. Install Dependensi*
 #### *Backend*
-sh
 cd backend
 npm install
 

@@ -70,23 +70,25 @@ Frontend akan berjalan di http://localhost:5173.
 
 ---
 ## 📷 Screenshot Aplikasi
-1. *Tampilan Tambah Produk*
-![alt text](image-10.png)
+1. *Tampilan Read Data*
+![alt text](ReadData1.png)
 
-2. *Tampilan Read Data dalam Tabel*
-![alt text](image-11.png)
+2. *Tampilan Create Data*
+*Before*
+![alt text](CreateData1.png)
+*After*
+![alt text](CreateData2.png)
 
-3. *Tampilan Edit Produk*
-![alt text](image-12.png)
-![alt text](image-13.png)
+4. *Tampilan Edit data*
+*Before*
+![alt text](EditData1.png)
+*After*
+![alt text](EditData2.png)
 
-4. *Tampilan Hapus Produk*
-![alt text](image-14.png)
+5. *Tampilan Delete Data*
+![alt text](DeleteData.png)
 
 ---
 
 ## Developed by:
 - Rendy Rifandi Kurnia (10231081) FrontEnd & BackEnd Dev (InsyaAllah)
-
-### *Inspirasi Hari Ini*
-> "Mengetahui saja tidak cukup; kita harus menerapkannya. Berkeinginan saja tidak cukup; kita harus melakukannya." – Goethe

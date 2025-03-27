@@ -14,16 +14,17 @@ Aplikasi ini adalah dashboard admin untuk e-commerce yang memungkinkan pengguna 
 ## 🚀 Cara Install dan Menjalankan Aplikasi
 
 ### *1. Clone Repository*
-sh
+```sh
 git clone https://github.com/NorEndGate/ProWeb.git 
 cd repository-name
-
+```
 
 ### *2. Install Dependensi*
 #### *Backend*
-sh
+```sh
 cd backend
 npm install
+```
 
 #### *Frontend*
 sh

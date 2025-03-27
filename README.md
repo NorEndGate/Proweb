@@ -48,8 +48,8 @@ node migrate.js
 ```sh
 cd backend
 node index.js
-```
 Backend akan berjalan di http://localhost:3001.
+```
 
 #### *Menjalankan Frontend*
 ```sh
